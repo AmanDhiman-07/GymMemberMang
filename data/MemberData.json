@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Aman dhiman",
+    "email": "mannudhiman81@gmail.com",
+    "age": "22",
+    "gender": "male",
+    "subscription": "1 month (1000₹)",
+    "exercises": "jogging"
+  },
+  {
+    "name": "Captain America",
+    "email": "mannudhiman81@gmail.com",
+    "age": "70",
+    "gender": "male",
+    "subscription": "1 year (10000 ₹) Save 2000₹",
+    "exercises": "cardio machines"
+  },
+  {
+    "name": "spiderMan",
+    "email": "spiderman@gmail.com",
+    "age": "19",
+    "gender": "male",
+    "subscription": "1 month (1000₹)",
+    "exercises": [
+      "weights",
+      "team sports"
+    ]
+  },
+  {
+    "name": "Thor",
+    "email": "Thor@a.a",
+    "age": "23",
+    "gender": "male",
+    "subscription": "1 month (1000₹)",
+    "exercises": "weights"
+  },
+  {
+    "name": "kio",
+    "email": "kio@gmail.com",
+    "age": "23",
+    "gender": "female",
+    "subscription": "1 year (10000 ₹) Save 2000₹",
+    "exercises": "swimming"
+  },
+  {
+    "name": "Hamid",
+    "email": "Hamid@gmail.com",
+    "age": "21",
+    "gender": "male",
+    "subscription": "1 month (1000₹)",
+    "exercises": "classes"
+  }
+]
